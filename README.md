@@ -1,8 +1,10 @@
 # 500-Hours-Filipino-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/1126
+
 
 ## Description
 500 Hours - Filipino Speech Data by Mobile Phone，the data were recorded by Filipino speakers with authentic Filipino accents.The text is manually proofread with high accuracy. Match mainstream Android, Apple system phones.
+
+For more details, please refer to the link: https://bit.ly/3C99Ybz
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel.
@@ -24,3 +26,6 @@ Filipino
 
 ## Applications
 speech recognition; voiceprint recognition.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
