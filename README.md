@@ -4,7 +4,7 @@
 ## Description
 500 Hours - Filipino Speech Data by Mobile Phone，the data were recorded by Filipino speakers with authentic Filipino accents.The text is manually proofread with high accuracy. Match mainstream Android, Apple system phones.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1126?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/speechrecog/1126?source=Github
 
 
 ## Format
